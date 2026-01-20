@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DATA SCIENCE and 2025 Btech pass out in a branch of CSE.
 - 💞️ I’m looking to collaborate on hands on projects in order to enhance my programming skills
 - 📫 How to reach me 
-- 😄 Pronouns: MOHD SAAD LINKEDIN ADD.> (https://www.linkedin.com/in/mohd-saad-saifi-85938b304)
+- 😄 Pronouns: MOHD SAAD LINKEDIN ADD.> (https://www.linkedin.com/in/mohd-saad-a30b64330)
 
 <!---
 sdjml3/sdjml3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
